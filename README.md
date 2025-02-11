@@ -24,8 +24,15 @@ The input file should contain journey data in the following format:
 StopName, Distance (in km), VisaRequirement
 ```
 Example:
-![image](https://github.com/user-attachments/assets/05a37c20-18f3-4bab-ab20-0dc9a5d1dcbe)
-
+```
+Delhi, 0, Not Required
+Mumbai, 1200, Not Required
+Bangalore, 1700, Not Required
+Dubai, 2200, Required
+London, 6700, Required
+New York, 12000, Required
+Paris, 6500, Required
+Tokyo, 5800, Required
 ```
 Each line represents a journey stop, its distance from the previous stop, and visa requirements for that location.
 
@@ -74,5 +81,4 @@ Reads the journey data from `input1.txt`, splits it into `stops`, `distances`, a
 - **Material 3 Components**: For modern UI styling and interaction.
 - **Kotlin**: Primary language for development.
 - **Android SDK**: Ensures compatibility with Android devices.
-
 

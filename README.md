@@ -1,4 +1,4 @@
-# JourneyTracker20_Compose
+# JourneyTracker2.0_Compose
 
 ## Overview
 JourneyTracker20_Compose is an Android app built using Jetpack Compose. It helps users track their journey by listing stops, showing distances covered and remaining, and handling visa requirements. The app reads journey data from an input file and provides an interactive interface to navigate through stops. Users can easily switch between kilometers and miles, visualize progress using a progress bar, and advance through stops with a button click.

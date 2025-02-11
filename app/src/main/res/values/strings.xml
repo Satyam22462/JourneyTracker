@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JourneyTracker2.0</string>
+    <string name="switch_to_miles">Switch to Miles</string>
+    <string name="next_stop">Next Stop</string>
+    <string name="stops_and_distances">Stops and Distances</string>
+    <string name="stops_will_appear_here">Stops will appear here</string>
+    <string name="visa_requirements" />
+
+</resources>

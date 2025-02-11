@@ -1,0 +1,5 @@
+New York, 500, Required
+Chicago, 300, Not Required
+Los Angeles, 400, Not Required
+Miami, 600, Not Required
+Seattle, 700, Required
